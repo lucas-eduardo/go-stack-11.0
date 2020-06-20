@@ -1,0 +1,23 @@
+{
+	"explorer.compactFolders": false,
+	"extensions.ignoreRecommendations": true,
+	"javascript.updateImportsOnFileMove.enabled": "never",
+	"typescript.updateImportsOnFileMove.enabled": "never",
+	"editor.parameterHints.enabled": false,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+	"editor.rulers": [
+		80,
+		120
+	],
+	"[javascript]": {
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true,
+		}
+	},
+	"[typescript]": {
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true,
+		}
+	}
+}
